@@ -1,7 +1,7 @@
 # Web-Homework02
 Responsiveness Portfolio
 
-* Contains templates html designed for xs-sm devices.
+* Contains template html files designed for xs-sm devices.
     * Bio Page.
     * Portfolio.
-    * Conatact form page.
+    * Contact form page.
